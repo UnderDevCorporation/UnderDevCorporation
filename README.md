@@ -1,5 +1,4 @@
 UnderDevCorporation
-First Upload
 Calculator made in Java JFrame.
 
 <!---
